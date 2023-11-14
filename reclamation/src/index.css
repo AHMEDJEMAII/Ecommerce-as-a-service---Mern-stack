@@ -1,0 +1,13 @@
+body {
+  font-family: "Poppins", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
+  font-weight: normal;
+  background-image:url("https://www.safricloud.com/wp-content/uploads/2020/06/Web-Landing-Page-Background.jpg") ;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

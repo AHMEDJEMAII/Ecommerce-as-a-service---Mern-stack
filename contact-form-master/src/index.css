@@ -1,0 +1,13 @@
+body {
+  font-family: "Poppins", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
+  font-weight: normal;
+  background-image:url("https://i.postimg.cc/8z8MqR01/Web-Landing-Page-Background.jpg") ;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
